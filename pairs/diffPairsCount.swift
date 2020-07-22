@@ -25,3 +25,5 @@ func pairs(_ k: Int,_ arr: [Int]) {
     
     print(count)
 }
+
+pairs(2,[1,3,5,8,6,4,2])
