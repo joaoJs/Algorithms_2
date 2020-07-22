@@ -1,5 +1,6 @@
 import UIKit
 
+// https://www.hackerrank.com/challenges/pairs/problem
 func pairs(_ k: Int,_ arr: [Int]) {
     var count : Int = 0
     var start = arr.count - 2
